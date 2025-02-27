@@ -2,7 +2,7 @@
 
 ### **The Ultimate AI-Powered Stock Market Companion**
 
-Agentic AI Stock & Trading Genius is an **advanced AI-driven stock market analysis platform** designed for traders, investors, and financial analysts. It integrates **multi-agent AI systems** with **real-time web search and financial insights**, ensuring that you get the most accurate, data-driven decisions for stock market investments.
+Agentic AI Stock & Trading Genius is an **advanced AI-driven stock market analysis platform** designed for traders, investors, and financial analysts. It integrates **multi-agent AI systems** with **real-time web search and financial insights**, ensuring you get the most accurate, data-driven decisions for stock market investments.
 
 ---
 
@@ -88,7 +88,7 @@ streamlit run financial_agent.py
 ---
 
 ## 🌎 **Connect With Us**
-📧 **Contact:** [Your Email]  
+📧 **Contact:** [dhyeyjoshi12@gmail.com]  
 📢 **Contribute:** PRs & Issues are welcome!  
 
 🚀 **Stay ahead in the stock market with AI-powered insights!** 📊💡
