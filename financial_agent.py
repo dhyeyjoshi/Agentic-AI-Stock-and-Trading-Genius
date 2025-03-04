@@ -119,7 +119,7 @@ def initialize_agents():
             st.session_state.web_agent = Agent(
                 name="Web Search Agent",
                 role="Search the web for information",
-                model=Groq(api_key=GROQ_API_KEY, id="llama-3.1-8b-instant"),
+                model=Groq(api_key=GROQ_API_KEY, id="deepseek-r1-distill-qwen-32b"),
                 tools=[
                     GoogleSearch(fixed_language='english', fixed_max_results=5),
                     DuckDuckGo(fixed_max_results=5)
@@ -132,7 +132,7 @@ def initialize_agents():
             st.session_state.finance_agent = Agent(
                 name="Financial AI Agent",
                 role="Providing financial insights",
-                model=Groq(api_key=GROQ_API_KEY, id="llama-3.1-8b-instant"),
+                model=Groq(api_key=GROQ_API_KEY, id="deepseek-r1-distill-qwen-32b"),
                 tools=[
                     YFinanceTools(
                         stock_price=True,
@@ -149,7 +149,7 @@ def initialize_agents():
             st.session_state.multi_ai_agent = Agent(
                 name='A Stock Market Agent',
                 role='A comprehensive assistant specializing in stock market analysis',
-                model=Groq(api_key=GROQ_API_KEY, id="llama-3.1-8b-instant"),
+                model=Groq(api_key=GROQ_API_KEY, id="deepseek-r1-distill-qwen-32b"),
                 team=[st.session_state.web_agent, st.session_state.finance_agent],
                 instructions=["Provide comprehensive analysis with multiple data sources"],
                 show_tool_calls=True,
