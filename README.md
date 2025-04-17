@@ -32,6 +32,11 @@ Agentic AI Stock & Trading Genius is an **advanced AI-driven stock market analys
 
 ---
 
+## Project Demo 
+
+https://www.linkedin.com/posts/dhyey-joshi12_agenticai-finance-aitrading-activity-7301498679457132544-CfsQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACz4HxwBYkLJ69AN7Qdey3nfFMc_8engWzY 
+
+---
 ## 🔥 **How It Works**
 ### **Agent-Based Architecture**
 - **Uses `phi.agent` framework** to create specialized AI agents.
