@@ -32,9 +32,10 @@ Agentic AI Stock & Trading Genius is an **advanced AI-driven stock market analys
 
 ---
 
-## Project Demo 
+## 🔗 Project Demo
 
-https://www.linkedin.com/posts/dhyey-joshi12_agenticai-finance-aitrading-activity-7301498679457132544-CfsQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACz4HxwBYkLJ69AN7Qdey3nfFMc_8engWzY 
+Check out the demo on LinkedIn:  
+[Watch Demo on LinkedIn](https://www.linkedin.com/posts/dhyey-joshi12_agenticai-finance-aitrading-activity-7301498679457132544-CfsQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACz4HxwBYkLJ69AN7Qdey3nfFMc_8engWzY)
 
 ---
 ## 🔥 **How It Works**
